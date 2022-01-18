@@ -25,7 +25,7 @@ npm start
 * React JS
 * Tailwind CSS
 
-##SCREENSHOT
+## SCREENSHOT
 
 
 ![HOME](https://iili.io/cD0FJ2.md.png)
