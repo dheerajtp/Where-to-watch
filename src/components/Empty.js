@@ -8,9 +8,9 @@ const Empty = () => {
           <div>
             <div className="mx-10 bg-green-200">
               <p className="p-4 text-justify">
-                A place where you can search for movies to know from where they
-                are streaming actually...!! Enter your search item above and
-                press the enter key to search for your item.
+                A place where you can search for movies to know where they are
+                streaming actually...!! Enter your search item and press the
+                enter key to search for your item.
               </p>
             </div>
           </div>
