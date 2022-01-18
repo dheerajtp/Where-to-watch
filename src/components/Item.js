@@ -28,6 +28,7 @@ const Item = ({ keyword, gotresult, setGotResult }) => {
 
   useEffect(() => {
     getResult();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [keyword]);
 
   if (gotresult === false) {
