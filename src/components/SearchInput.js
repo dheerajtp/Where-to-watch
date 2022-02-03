@@ -26,6 +26,7 @@ const SearchInput = ({ setSearchItem, searchItem, setKeyword }) => {
             onChange={handleChange}
             className="px-4 py-2 w-80 outline-0 bg-orange-100 border-l-4 border-orange-500"
             placeholder="Search your movie here.."
+            autoComplete="off"
           />
         </div>
       </div>
